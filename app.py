@@ -1,4 +1,3 @@
-from email.mime import image
 from matplotlib import pyplot as plt
 import streamlit as st
 import numpy as np
